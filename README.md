@@ -1,16 +1,14 @@
-## Hi there 👋
+# Oii, me chamo Maria Clara de Quadros 🌺 
 
-<!--
-**jijicocraft7/jijicocraft7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Tenho 17 anos, faço aniversário dia 07 de abril.
+- 😺 Tenho dois gato, a Mimi e o Piazinho kk
+- 🎮 Gosto de assistir gameplays do Alanzoka
+- ⚽ Gosto de jogar Võlei 
+- 🎧 Minha música preferida é "Lean's Pt2"
+- 🎥 Meu filme favorito é "Kung Fu Panda"
+- 💪 Pretendo cursar Educação Física
+
+![](https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif)
